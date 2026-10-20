@@ -1,0 +1,3 @@
+[submodule "modules/lwmtools-button"]
+	path = modules/lwmtools-button
+	url = git@github.com:eai13/lwmtools-button.git
